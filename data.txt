@@ -1,0 +1,11 @@
+db.alunos.insertOne({"id":1,"nome":"Eduardo Martins","idade":27,"cidade":"Pato Branco","estado":"PR","sexo":"M","trabalha":true})
+db.alunos.insertOne({"id":2,"nome":"Adriano","idade":42,"cidade":"Palhoça","estado":"SC","sexo":"M","trabalha":false})
+db.alunos.insertOne({"id":3,"nome":"Breno","idade":20,"cidade":"Florianópolis","estado":"SC","sexo":"M","trabalha":false})
+db.alunos.insertOne({"id":4,"nome":"Kauã Kirchner de Souza","idade":17,"cidade":"Palhoça","estado":"SC","sexo":"M","trabalha":true})
+db.alunos.insertOne({"id":5,"nome":"Vinicius","idade":28,"cidade":"Florianópolis","estado":"SC","sexo":"M","trabalha":false})
+db.alunos.insertOne({"id":6,"nome":"Maycon Campos","idade":40,"cidade":"Florianópolis","estado":"SC","sexo":"M","trabalha":true})
+db.alunos.insertOne({"id":7,"nome":"Marcelo Coelho","idade":41,"cidade":"Curitiba","estado":"PR","sexo":"M","trabalha":false})
+db.alunos.insertOne({"id":8,"nome":"Julia","idade":24,"cidade":"Birigui","estado":"SP","sexo":"F","trabalha":true})
+db.alunos.insertOne({"id":9,"nome":"Thiago","idade":22,"cidade":"Salvador","estado":"BA","sexo":"M","trabalha":true})
+db.alunos.insertOne({"id":10,"nome":"Rafael Telles Carneiro","idade":29,"cidade":"Brasilia","estado":"DF","sexo":"M","trabalha":true})
+db.alunos.insertOne({"id":11,"nome":"Rafael Schemmer","idade":36,"cidade":"Santa Rosa","estado":"RS","sexo":"M","trabalha":true})s
