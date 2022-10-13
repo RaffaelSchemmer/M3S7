@@ -8,4 +8,4 @@ db.alunos.insertOne({"id":7,"nome":"Marcelo Coelho","idade":41,"cidade":"Curitib
 db.alunos.insertOne({"id":8,"nome":"Julia","idade":24,"cidade":"Birigui","estado":"SP","sexo":"F","trabalha":true})
 db.alunos.insertOne({"id":9,"nome":"Thiago","idade":22,"cidade":"Salvador","estado":"BA","sexo":"M","trabalha":true})
 db.alunos.insertOne({"id":10,"nome":"Rafael Telles Carneiro","idade":29,"cidade":"Brasilia","estado":"DF","sexo":"M","trabalha":true})
-db.alunos.insertOne({"id":11,"nome":"Rafael Schemmer","idade":36,"cidade":"Santa Rosa","estado":"RS","sexo":"M","trabalha":true})s
+db.alunos.insertOne({"id":11,"nome":"Rafael Schemmer","idade":36,"cidade":"Santa Rosa","estado":"RS","sexo":"M","trabalha":true})
